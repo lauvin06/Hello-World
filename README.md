@@ -1,2 +1,3 @@
 # Hello-World
-#My First Code In Python
+Hello World
+My First Coding
